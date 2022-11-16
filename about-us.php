@@ -3,6 +3,6 @@
   <title>About us</title>
  </head>
  <body>
- <?php echo '<p>About us! free style</p>'; ?> 
+ <?php echo '<p>About us! free style test</p>'; ?> 
  </body>
 </html>
